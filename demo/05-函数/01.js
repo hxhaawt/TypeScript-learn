@@ -6,7 +6,7 @@
 function sum(a, b) {
     return a + b;
 }
-var rs = sum(1, 3);
+var res = sum(1, 3);
 // ts 写法
 // 要写参数类型和返回值类型
 // 函数定义类型

@@ -7,7 +7,7 @@
 function sum (a, b) {
     return a + b;
 }
-let rs = sum(1, 3);
+let res = sum(1, 3);
 
 // ts 写法
 // 要写参数类型和返回值类型
